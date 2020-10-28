@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525419129 source:c:\users\elevcngm\desktop\proiect atestat\main.cpp
+	<iostream>
+	<fstream>
+	<tchar.h>
+	<windows.h>
+
+1525592880 source:c:\users\ana\desktop\proiect atestat\main.cpp
+	<iostream>
+	<fstream>
+	<tchar.h>
+	<windows.h>
+
